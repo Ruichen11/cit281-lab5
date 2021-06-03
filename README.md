@@ -1,4 +1,4 @@
-# cit281-lab5
+# CIT281 Lab-5
 Purpose of this lab:
 - To create a Node.js and fastify server application with GET and respond with JSON using Postman
 - Working with Postman application. 
@@ -114,7 +114,9 @@ fastify.listen(listenPort, listenIP, (err, address) => {
   console.log(`Server listening on ${address}`);
 });
 ```
-![Image](https://github.com/Ruichen11/cit281-lab5/blob/3d92f17e4469ce82968d03d5bb3f5dd18e9e25ca/AllStudents.JPG)
+![AllStudents](https://user-images.githubusercontent.com/84296093/120626512-93544f00-c417-11eb-827c-030726410d2f.JPG)
+![IndividualStudent](https://user-images.githubusercontent.com/84296093/120626567-a36c2e80-c417-11eb-8b96-358802c1b105.JPG)
+![UnMatched](https://user-images.githubusercontent.com/84296093/120626558-9fd8a780-c417-11eb-92ab-7226abd89094.JPG)
 
 ### What I learned:
 I learned how to use Postman to test server Get routes. I also learned how to gather the requested information quickly and effectivly. 
